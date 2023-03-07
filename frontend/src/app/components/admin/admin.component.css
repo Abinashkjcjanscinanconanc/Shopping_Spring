@@ -1,0 +1,29 @@
+
+.container {
+    background-color: rgb(121, 117, 117);
+    width: 100%;
+    margin: 6rem;
+    padding-top: 100px
+}
+.container form {
+  padding: 50px;
+  margin-left: 100px;
+}
+.container  input {
+  display: grid;
+  width: 90%;
+  padding: 20px;
+}
+.container textarea {
+  margin-top: 20px;
+  width: 90%;
+  padding: 20px;
+}
+.container button{
+  padding: 10px;
+  border-radius: 10px;
+  
+}
+
+
+
